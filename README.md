@@ -5,7 +5,7 @@
 <p>Nous savons que les mots de passe sont des donées particulierement sensibles, afin de rester en sécurité il est recommandé d'avoir un mot de passe unique par site</p>
 <p>C'est pourquoi cette clef est utile elle permet de de ne pas avoir a les retenir.</p>
 <br>
-<h2>étude : </h2> eee
+<h2>étude : </h2> 
 <ul>
   <li>capteur d'empreinte digitale</li>
   <li>programmation de logiciel IHM</li>
